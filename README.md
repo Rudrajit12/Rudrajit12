@@ -20,10 +20,10 @@ With over 3 years of experience, I specialize in turning raw data into actionabl
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-- **Programming Languages:** Python, SQL
-- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, Keras, NLTK, Flask
-- **Tools & Platforms:** Tableau, Power BI, Looker Studio, AWS EC2, PostgreSQL, MySQL, Google Analytics
-- **Machine Learning:** Linear Regression, Logistic Regression, Tree-based Models, k-NN, SVM, Neural Networks, K-means Clustering, PCA
+- **Programming & Scripting:** Python (Pandas, NumPy, Scikit-Learn, Tensorflow, Keras), SQL (MySQL, PostgreSQL)
+- **Data Analysis & Machine Learning:** Predictive Modeling (Regression, Classification), Clustering & Segmentation (K-Means), Feature Engineering & Data Preprocessing, Statistical Analysis (Hypothesis Testing, A/B Testing)
+- **Data Visualization & BI Tools:** Tableau, Power BI, Looker Studio, Matplotlib, Seaborn, Plotly, Excel (Pivot Tables), Google Analytics
+- **Other Tools & Technologies:** Data Cleaning, Git & Version Control, Model Deployment (Flask, Streamlit, AWS)
 
 ---
 
@@ -47,6 +47,14 @@ With over 3 years of experience, I specialize in turning raw data into actionabl
 
 ## 🌟 Featured Projects
 
+### [📊 BigBasket Product Strategy Dashboard](https://github.com/Rudrajit12/BigBasket-Product-Assortment-Optimization)  
+- **Tech Stack**: Python, Pandas, Matplotlib, Seaborn, Tableau
+- Uncovered pricing inefficiencies, product assortment gaps, and brand strategies using EDA & Tableau.
+
+### [🧪 A/B Testing for Landing Page Optimization](https://github.com/Rudrajit12/Ecommerce-AB-Test-Case-Study)  
+- **Tech Stack**: Python, Pandas, Matplotlib, Hypothesis Testing, A/B Testing
+- Conducted Z-test-based hypothesis testing on a new e-commerce landing page—measured conversion uplift.
+
 ### [Mobile Price Range Prediction](https://github.com/Rudrajit12/mobile-price-prediction)
 - **Tech Stack**: Python, Scikit-learn, Logistic Regression, Tree-based Models
 - Built a predictive tool for smartphone price ranges, improving model accuracy by 6% through EDA and logistic regression.
@@ -54,10 +62,6 @@ With over 3 years of experience, I specialize in turning raw data into actionabl
 ### [Airbnb Booking Analysis](https://github.com/Rudrajit12/airbnb-bookings-analysis)
 - **Tech Stack**: Python, Pandas, Seaborn, Matplotlib
 - Analyzed 49,000 NYC listings to uncover trends in host behavior and seasonal patterns, resulting in recommendations for listing optimization.
-
-### [Divvy Bikes Analysis](https://github.com/Rudrajit12/divvy-bikes-analysis)
-- **Tech Stack**: Tableau, Python, Pandas
-- Analyzed Divvy Bikes trip data to identify peak usage times for subscribers and non-subscribers, helping optimize resource allocation.
 
 ---
 
