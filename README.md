@@ -55,11 +55,11 @@ With over 3 years of experience, I specialize in turning raw data into actionabl
 - **Tech Stack**: Python, Pandas, Matplotlib, Hypothesis Testing, A/B Testing
 - Conducted Z-test-based hypothesis testing on a new e-commerce landing page—measured conversion uplift.
 
-### [Mobile Price Range Prediction](https://github.com/Rudrajit12/mobile-price-prediction)
+### [📱📊 Mobile Price Range Prediction](https://github.com/Rudrajit12/mobile-price-prediction)
 - **Tech Stack**: Python, Scikit-learn, Logistic Regression, Tree-based Models
 - Built a predictive tool for smartphone price ranges, improving model accuracy by 6% through EDA and logistic regression.
 
-### [Airbnb Booking Analysis](https://github.com/Rudrajit12/airbnb-bookings-analysis)
+### [🏠📈 Airbnb Booking Analysis](https://github.com/Rudrajit12/airbnb-bookings-analysis)
 - **Tech Stack**: Python, Pandas, Seaborn, Matplotlib
 - Analyzed 49,000 NYC listings to uncover trends in host behavior and seasonal patterns, resulting in recommendations for listing optimization.
 
@@ -87,12 +87,16 @@ Techno India Saltlake *(2013 – 2017)*
 ## 📈 GitHub Stats
 
 ![Rudrajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudrajit12&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrajit12&layout=compact&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Rudrajit12&color=brightgreen)
 
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrajitb)
+
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Rudrajit12)
+
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rudrajitb24@gmail.com)
