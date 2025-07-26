@@ -1,6 +1,6 @@
 # Hi there, I'm Rudrajit Bhattacharyya 👋
 
-A data scientist and storyteller helping mission-driven businesses make smarter, impact-focused decisions.
+A data analyst and storyteller helping mission-driven businesses make smarter, impact-focused decisions.
 
 With over 3 years of experience, I specialize in turning raw data into actionable strategies that drive growth. Whether it's reducing user churn by 10%, boosting engagement by 50%, or building predictive models that reshape decision-making, I thrive at the intersection of data, business, and storytelling.
 
