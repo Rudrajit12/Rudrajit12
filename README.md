@@ -4,6 +4,12 @@ A data analyst and storyteller helping mission-driven businesses make smarter, i
 
 With over 3 years of experience, I specialize in turning raw data into actionable strategies that drive growth. Whether it's reducing user churn by 10%, boosting engagement by 50%, or building predictive models that reshape decision-making, I thrive at the intersection of data, business, and storytelling.
 
+🎓 I hold a Master’s in Computer Science from Jadavpur University, and most recently worked as a Data Science Consultant at AlmaBetter, where I led high-impact initiatives across learning analytics, automation, dashboarding, and retention modeling.
+
+📊 My superpower? Explaining complex data problems in simple, visual, and actionable ways — whether I’m building dashboards, running A/B tests, or designing predictive systems.
+
+💡 My journey into data science was inspired by analyzing football match data. That passion for patterns has since evolved into a career built around solving real-world problems.
+
 - 🌍 Based in **Kolkata, India**
 - 🛠️ Skilled in **Python**, **SQL**, **Tableau**, **Power BI**, and more.
 - 🔍 Interested in **Machine Learning**, **Data Visualization**, and **Churn Analysis**.
