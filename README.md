@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rudrajit Bhattacharyya
 
 💡 **Data Analyst | Data Scientist | Storyteller**
+
 Helping mission-driven businesses make smarter, impact-focused decisions with data.
 
 With **4+ years of experience**, I specialize in turning **messy datasets into clear, actionable strategies** that drive measurable results — from reducing churn by 10% to boosting engagement by 50%. I love building dashboards, predictive models, and automation workflows that solve real-world problems.
@@ -28,16 +29,16 @@ With **4+ years of experience**, I specialize in turning **messy datasets into c
 
 ### 🛠 Skills & Tools
 
-**Programming & Analysis**
+**Programming & Analysis**: 
 `Python` (Pandas, NumPy, Scikit-Learn) · `SQL` (MySQL, PostgreSQL) · `Jupyter Notebooks`
 
-**Machine Learning & Statistics**
+**Machine Learning & Statistics**: 
 Regression · Classification · Clustering (K-Means) · A/B Testing · Feature Engineering
 
-**Visualization & BI**
+**Visualization & BI**: 
 `Tableau` · `Power BI` · `Looker Studio` · Matplotlib · Seaborn · Plotly · Excel
 
-**Workflow & Automation**
+**Workflow & Automation**: 
 Streamlit & Flask (data apps) · Git & GitHub (version control) · Google Apps Script · GPT Tools (workflow automation)
 
 ---
