@@ -1,90 +1,76 @@
-# 👋 Hi, I'm Rudrajit Bhattacharyya
+# 👋 Hey, I’m Rudrajit Bhattacharyya
 
-💡 **Data Analyst | Data Scientist | Storyteller**
-
-Helping mission-driven businesses make smarter, impact-focused decisions with data.
-
-With **4+ years of experience**, I specialize in turning **messy datasets into clear, actionable strategies** that drive measurable results — from reducing churn by 10% to boosting engagement by 50%. I love building dashboards, predictive models, and automation workflows that solve real-world problems.
-
-🔎 **Currently seeking** Data Analyst / Product Analyst roles where I can combine **SQL, Python, and dashboarding** to deliver business insights, optimize operations, and automate workflows.
+I’m a **data analyst & storyteller** on a mission to help businesses make smarter, impact-driven decisions.
+With 4+ years of experience, I specialize in turning **messy datasets** into **actionable insights** that actually move the needle — whether it’s reducing churn by 10%, freeing up capital with smarter inventory models, or building dashboards that make data finally *make sense*.
 
 ---
 
-### 👨‍💻 About Me
+## 🧑🏻‍💻 About Me
 
-* 🎓 **M.Tech in Computer Science** – Jadavpur University
-* 💼 Currently **Data Analyst & Automation Specialist @ Fex-Stock**
-
-  * Automated internal billing (saving hours/month)
-  * Designed inventory optimization models that cut excess stock by **30%** for a leather goods manufacturer
-* 📊 Previously **Data Science Consultant @ AlmaBetter**
-
-  * Built job readiness prediction models (85% accurate)
-  * Reduced churn by **10%** and boosted engagement by **50%**
-  * Developed interactive dashboards for leadership
-* 🧠 I’m at my best when **translating complex data into simple, visual, actionable insights**.
-* ⚽ Fun fact: My data journey started with football match analysis — now it spans **ed-tech, e-commerce, retail, and research**.
+* 🌍 Based in **Kolkata, India** (open to remote & hybrid opportunities!)
+* 🛠 Skilled in **Python**, **SQL**, **Tableau**, **Power BI**, **Looker Studio**, and **workflow automation**
+* 💡 Love working at the intersection of **business + data + storytelling**
+* 🎓 M.Tech in Computer Science (Jadavpur University)
 
 ---
 
-### 🛠 Skills & Tools
+## 🚀 What I Do
 
-**Programming & Analysis**: 
-`Python` (Pandas, NumPy, Scikit-Learn) · `SQL` (MySQL, PostgreSQL) · `Jupyter Notebooks`
+I believe data projects should be **measured by impact**, not just by code.
+Here’s a snapshot of what I’ve done so far:
 
-**Machine Learning & Statistics**: 
-Regression · Classification · Clustering (K-Means) · A/B Testing · Feature Engineering
-
-**Visualization & BI**: 
-`Tableau` · `Power BI` · `Looker Studio` · Matplotlib · Seaborn · Plotly · Excel
-
-**Workflow & Automation**: 
-Streamlit & Flask (data apps) · Git & GitHub (version control) · Google Apps Script · GPT Tools (workflow automation)
+* ⚡ **Automated Invoicing System** – Reduced manual billing effort by **90%** with Google Apps Script + Gmail automation
+* 👜 **Inventory Optimization** – Cut excess stock by **30%** & stock-outs by **40%** for a leather goods manufacturer
+* 🧪 **A/B Testing** – Saved dev resources by proving a landing page redesign had **no significant uplift**
+* 📊 **Engagement Dashboards** – Built real-time Looker Studio dashboards that boosted learner engagement by **50%**
+* 🛡 **Churn Prediction Model** – Enabled early interventions and reduced student churn by **10%**
 
 ---
 
-### 🌟 Featured Work
+## 🏗 Featured Projects
 
-#### 📊 [BigBasket Product Strategy Dashboard](https://github.com/Rudrajit12/BigBasket-Product-Assortment-Optimization)
+| 💼 Project                                     | 🔑 Problem Solved                              | 💥 Impact                                                   |
+| ---------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------- |
+| 🧾 **Automated Invoice Generation & Emailing** | Manual billing = errors + wasted hours         | ⏱ **90% time saved**, zero errors                           |
+| 👜 **Inventory Optimization**                  | Overstock + stockouts killing working capital  | 📉 **30% less excess inventory**, 📦 better fulfillment     |
+| 🧪 **A/B Test Analysis**                       | Needed proof before redesign rollout           | 💰 Saved **dev effort & cost** by retaining old page        |
+| 📊 **Customer Segmentation**                   | No clarity on high-value vs low-value shoppers | 🎯 Targeted campaigns, improved ROI                         |
+| 📲 **Mobile Price Classification (ML)**        | Price categories unclear for marketing         | 🤖 **96%+ accuracy**, guided better pricing & positioning   |
+| 🛒 **BigBasket Assortment Analysis**           | Thousands of SKUs, unclear gaps                | 🛍 Identified **high-demand gaps**, optimized pricing tiers |
+| 📚 **Book Sales Analysis**                     | No visibility into genre/author revenue        | 📈 Dashboard for curation & marketing decisions             |
 
-Uncovered **pricing gaps, assortment inefficiencies, and brand positioning issues** using EDA & Tableau — helping retailers improve product mix and revenue potential.
-
-#### 🧪 [A/B Testing for Landing Page Optimization](https://github.com/Rudrajit12/Ecommerce-AB-Test-Case-Study)
-
-Ran Z-test hypothesis testing to measure conversion uplift for a redesigned e-commerce landing page, guiding data-driven rollout decisions.
-
-#### 📱 [Mobile Price Range Prediction](https://github.com/Rudrajit12/mobile-price-prediction)
-
-Built and compared ML models (Logistic Regression, SVM, XGBoost) to classify phones into price ranges with **96%+ accuracy** — revealing **RAM, battery, and camera** as key pricing drivers.
-
-#### 🏠 [Airbnb NYC Booking Analysis](https://github.com/Rudrajit12/airbnb-bookings-analysis)
-
-Analyzed **49K+ listings** to uncover pricing trends, host performance, and neighborhood demand. Built an interactive Tableau dashboard for hosts and travelers to optimize strategy.
+> 📌 *Some projects are client/company-owned — I can’t share raw data or dashboards, but I’d love to walk you through the approach in an interview!*
 
 ---
 
-### 📚 Publications
+## 📚 Research & Publications
 
-* **MAuD: A Multivariate Audio Database** *(Springer, 2023)*
-  Built a large real-world conferencing audio dataset (Zoom, Meet, calls) and used ResNet & DenseNet to classify platform and noise type with **98% accuracy** — supporting tasks like forensic analysis and robust speech systems.
+I also contribute to academic research, exploring **audio classification** and **deep learning**:
 
-* **Voice Platform Classification & Noise Detection** *(Conference Paper)*
-  Created models to detect which platform a call was made on and what background noise is present, helping improve conferencing tools and security research.
+* 🎙 **MAuD: A Multivariate Audio Database**
+  Built a real-world dataset from Zoom, Meet, and mobile calls — trained ResNet/DenseNet models to classify **platform & background noise** with **98%+ accuracy**.
+  *Applications: forensics, better noise-robust speech systems.*
 
----
-
-### 📈 GitHub Stats
-
-![Rudrajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudrajit12\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudrajit12\&layout=compact\&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=Rudrajit12\&color=brightgreen)
+* 📲 **Platform Classification with Deep Learning**
+  Used DenseNet-201 & ResNet-50 to identify which platform a call came from — even from **5-sec noisy clips** — achieving **99.7% accuracy**.
+  *Applications: compliance, quality monitoring, and digital forensics.*
 
 ---
 
-### 🌐 Connect with Me
+## ✍️ Blogs & Writing
 
-📫 **Email:** [rudrajitb24@gmail.com](mailto:rudrajitb24@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/rudrajitb](https://linkedin.com/in/rudrajitb)
-💻 **GitHub:** [github.com/Rudrajit12](https://github.com/Rudrajit12)
+I love telling data stories. A few of my favorites:
+
+* 🚗 **What 8,000 Used Cars Taught Me About Price & Demand** – [Read here](https://medium.com/@rudrajitb24/from-listings-to-insights-what-8-000-used-cars-taught-me-about-value-demand-car-buying-08b67434ef85)
+* 🏙 **Airbnb NYC: Pricing, Hosts & Travel Insights** – [Read here](https://medium.com/@rudrajitb24/%EF%B8%8F-what-airbnb-in-nyc-can-teach-us-about-hosts-prices-smart-travel-e5da840a48cf)
+* 🛒 **Cracking the Grocery Code (BigBasket)** – [Read here](https://medium.com/@rudrajitb24/cracking-the-grocery-code-how-i-helped-bigbasket-optimize-28-000-products-using-data-7db5f3e12d95)
 
 ---
+
+## 🤝 Let’s Connect!
+
+💌 **Email:** [rudrajitb24@gmail.com](mailto:rudrajitb24@gmail.com)
+🔗 **[LinkedIn](https://www.linkedin.com/in/rudrajitb/)** | **[GitHub](https://github.com/Rudrajit12)** | **[Tableau](https://public.tableau.com/app/profile/rudrajit.bhattacharyya/vizzes)** | **[Medium](https://medium.com/@rudrajitb24)** | **[Kaggle](https://www.kaggle.com/rudrajit24)**
+
+---
+
