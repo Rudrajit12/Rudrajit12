@@ -8,10 +8,10 @@ With 4+ years of experience, I specialize in turning **messy datasets** into **a
 
 ## 👨‍💻 About Me
 
-* 🌍 Based in **Kolkata, India** (open to remote & hybrid opportunities!)
-* 🛠 Skilled in **Python**, **SQL**, **Tableau**, **Looker Studio**, **Data Analysis**, **Machine Learning** and **Workflow Automation**
-* 💡 Love working at the intersection of **business + data + storytelling**
-* 🎓 M.Tech in Computer Science (Jadavpur University)
+* 🌍 Based in **Kolkata, India** (open to remote & hybrid opportunities!).
+* 🛠 Skilled in **Python**, **SQL**, **Tableau**, **Looker Studio**, **Data Analysis**, **Machine Learning** and **Workflow Automation**.
+* 💡 Love working at the intersection of **business + data + storytelling**.
+* 🎓 M.Tech in Computer Science (Jadavpur University).
 
 ---
 
@@ -33,15 +33,16 @@ Here’s a snapshot of what I’ve done so far:
 
 | 💼 Project                                     | 🔑 Problem Solved                              | 💥 Impact                                                   |
 | ----------------------------------------------  | ---------------------------------------------- | ----------------------------------------------------------- |
-| 🧾 **Automated Invoice Generation & Emailing**   | Manual billing = errors + wasted hours         | ⏱ **90% time saved**, zero errors                           |
+| 🏢 **Automated Invoice Generation & Emailing**   | Manual billing = errors + wasted hours         | ⏱ **90% time saved**, zero errors                           |
 | 👜 **Inventory Optimization**                  | Overstock + stockouts killing working capital  | 📉 **30% less excess inventory**, 📦 better fulfillment     |
-| 🧪 **A/B Test Analysis**                       | Needed proof before redesign rollout           | 💰 Saved **dev effort & cost** by retaining old page        |
+| 🔍 **A/B Test Analysis**                       | Needed proof before redesign rollout           | 💰 Saved **dev effort & cost** by retaining old page        |
 | 📊 **Customer Segmentation**                   | No clarity on high-value vs low-value shoppers | 🎯 Targeted campaigns, improved ROI                         |
 | 📲 **Mobile Price Classification (ML)**        | Price categories unclear for marketing         | 🤖 **96%+ accuracy**, guided better pricing & positioning   |
 | 🛒 **BigBasket Assortment Analysis**           | Thousands of SKUs, unclear gaps                | 🛍 Identified **high-demand gaps**, optimized pricing tiers |
 | 📚 **Book Sales Analysis**                     | No visibility into genre/author revenue        | 📈 Dashboard for curation & marketing decisions             |
 
 > 📌 *Some projects are client/company-owned — I can’t share raw data or dashboards, but I’d love to walk you through the approach in an interview!*
+
 > 📌 *You can view all the projects in my portfolio just by clicking here* -> [View Projects](https://www.notion.so/Hey-there-I-am-Rudrajit-Bhattacharyya-238e8848725280e69c57de617906649b?source=copy_link#26ce884872528065befcc32077f2e1c5)
 
 ---
@@ -53,11 +54,13 @@ I also contributed to academic research, exploring **audio classification** and 
 * 🎙 **MAuD: A Multivariate Audio Database**:
   
   Built a real-world dataset from Zoom, Meet, and mobile calls — trained ResNet/DenseNet models to classify **platform & background noise** with **98%+ accuracy**.
+
   *Applications: forensics, better noise-robust speech systems.*
 
 * 📲 **Platform Classification with Deep Learning**:
   
   Used DenseNet-201 & ResNet-50 to identify which platform a call came from — even from **5-sec noisy clips** — achieving **99.7% accuracy**.
+
   *Applications: compliance, quality monitoring, and digital forensics.*
 
 > 📌 *You can read and view these publications in my portfolio* -> [View Publications](https://www.notion.so/Hey-there-I-am-Rudrajit-Bhattacharyya-238e8848725280e69c57de617906649b?source=copy_link#26be8848725280a99adee854a9c287a6)
